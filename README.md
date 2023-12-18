@@ -1,2 +1,2 @@
 # Learn
- Leraning how to program 
+ Learning how to program 
